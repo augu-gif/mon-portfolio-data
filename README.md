@@ -1,7 +1,7 @@
 # Portfolio 
 
 ## À propos de moi
-Je m'appelle Augustin Montreuil, j'ai 29 ans et je souhaite me reconvertir dans le domaine de la data. Motivé par l'analyse de données et la résolution de problèmes, je me forme activement sur des outils comme Python, SQL et Tableau grâce à des plateformes comme Kaggle, OpenClassrooms et DataCamp. Je recherche une opportunité pour continuer à apprendre et contribuer en tant que data analyst.  
+Je m'appelle Augustin Montreuil, j'ai 29 ans et je souhaite me reconvertir dans le domaine de la data. Motivé par l'analyse de données et la résolution de problèmes, je me forme activement sur des outils comme Python, SQL et Tableau grâce à des plateformes comme Kaggle, OpenClassrooms et DataCamp.  
 
 ## Projets
 - [Mon premier site web](https://github.com/augu-gif/mon-premier-site-web.git): Première approche avec le monde de la tech
