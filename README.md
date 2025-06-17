@@ -1,7 +1,7 @@
 # Portfolio 
 
 ## À propos de moi
-Je m'appelle Augustin Montreuil, j'ai 29 ans et je souhaite me reconvertir dans le domaine de la data. Grâce à ce portfolio,qui sera un peu comme une feuille de route, je vais pouvoir partager mes différentes avancées dans mon projet de reconversion.  
+Je m'appelle Augustin Montreuil, j'ai 29 ans et je souhaite me reconvertir dans le domaine de la data. Grâce à ce portfolio, qui sera un peu comme une feuille de route, je vais pouvoir partager mes différentes avancées dans mon projet de reconversion.  
 
 ## Mes projets
 - [Mon premier site web](https://github.com/augu-gif/mon-premier-site-web/blob/main/README.md) : Première approche avec le monde du numérique
