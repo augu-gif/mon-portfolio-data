@@ -7,7 +7,7 @@ Je m'appelle Augustin Montreuil, j'ai 29 ans et je souhaite me reconvertir dans 
 - [Mon premier site web](https://github.com/augu-gif/mon-premier-site-web/blob/main/README.md) : Première approche avec le monde du numérique
 - [Analyse des données Spotify]( https://github.com/augu-gif/projet-spotify/blob/main/README.md) : Classification et analyse des préférences musicales d'un utilisateur.
 - [Projet Extraction Automatique de Numéros SIREN](https://github.com/augu-gif/Projet_Numero_de_SIREN) : Utilisation de l'IA pour trouver le numéro de SIREN dans un fichier d'annonces légales
-
+- [Projet Chatbot](https://github.com/augu-gif/projet_chatbot) : Création d’un chatbot pour aider les utilisateurs à répondre aux questions les plus courantes en matière d’annonces légales.
 
 ## Contact
 - Email : augustin.mont@gmail.com
